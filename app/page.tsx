@@ -2,6 +2,6 @@
 
 export default function Home() {
   return (
-    <div>한승호 게임개발 ㅊㅊ</div>
+    <div>양석원 샘 삼성 보내줘요</div>
   );
 }
