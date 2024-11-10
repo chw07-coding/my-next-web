@@ -1,7 +1,14 @@
 // import Image from "next/image";
 
 export default function Home() {
+
+  var a = printMyName();
+
   return (
-    <div>양석원 샘 삼성 보내줘요</div>
+    <div>{a}</div>
   );
+}
+
+function printMyName() {
+  return "승호야 잘가"
 }
