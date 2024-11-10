@@ -10,5 +10,5 @@ export default function Home() {
 }
 
 function printMyName() {
-  return "승호야 잘가"
+  return "승호야 게임 개발 잘가"
 }
